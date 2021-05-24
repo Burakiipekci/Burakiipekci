@@ -21,7 +21,7 @@
 
 <br/>
 
-![giphy](https://user-images.githubusercontent.com/76015489/119416694-e6821f80-bcfc-11eb-85c8-c142c0d227bb.gif)
+
 
 
 
@@ -48,6 +48,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/1199/1199128.png" />
 <br />
 <br />
+
+![giphy](https://user-images.githubusercontent.com/76015489/119416694-e6821f80-bcfc-11eb-85c8-c142c0d227bb.gif)
 
 [twitter]: https://twitter.com/Burakiipekci
 [instagram]: https://instagram.com/Burakiipekci
