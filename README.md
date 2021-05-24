@@ -1,6 +1,6 @@
 
 ## Hi there, I'm Burak  
-- [<img align="left" alt="Visual Studio " width="26px" src="https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg" />]  
+- [<img align="center" alt="Visual Studio " width="100px" src="https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg" />]  
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -20,15 +20,12 @@
 
 
 [<img align="left" alt="Visual Studio " width="26px" src="https://image.flaticon.com/icons/png/512/74/74906.png" />]
-
 [<img align="left" alt="Visual Studio " width="26px" src="https://image.flaticon.com/icons/png/512/906/906324.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://image.flaticon.com/icons/png/512/732/732190.png" />
 [<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
-
-[<img align="left" alt="JavaScript" width="26px" src="https://image.flaticon.com/icons/png/512/29/29105.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://image.flaticon.com/icons/png/512/29/29105.png" >]
 [<img align="left" alt="React" width="26px" src="https://image.flaticon.com/icons/png/512/1126/1126012.png" />]
-
 [<img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/512/2772/2772128.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/1199/1199128.png" />]
 <br />
