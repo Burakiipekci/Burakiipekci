@@ -4,7 +4,7 @@
 - <pre>
     <div class="container">
         <div class="block two first">
-            <h2>👋 Hi there, I'm Burak 👋 </h2>
+            <h2>Hi there, I'm Burak 👋 </h2>
             <div class="wrap">
   I am a young software developer candidate. I'm trying to improve myself.
   I am a small software developer who takes care to develop software suitable for corporate software architecture.
@@ -43,7 +43,7 @@
 <img align="left" alt="React" width="26px" src="https://image.flaticon.com/icons/png/512/1126/1126012.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/512/2772/2772128.png" />
-<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/1199/1199128.png" />]
+<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/1199/1199128.png" />
 <br />
 <br />
 
