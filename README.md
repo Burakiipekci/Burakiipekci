@@ -1,5 +1,18 @@
 
-## Hi there, I'm Burak  
+## 
+
+- <pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Hi there, I'm Burak  </h2>
+            <div class="wrap">
+                //Junior software developer candidate
+            </div>
+        </div>
+    </div>
+</pre>
+
+
 - ![giphy](https://user-images.githubusercontent.com/76015489/119416694-e6821f80-bcfc-11eb-85c8-c142c0d227bb.gif)
 
 
