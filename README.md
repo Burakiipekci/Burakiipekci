@@ -6,9 +6,9 @@
         <div class="block two first">
             <h2>Hi there, I'm Burak  </h2>
             <div class="wrap">
-      I am a young software developer candidate. I am someone who tries to improve myself.
-      I am a small software developer who takes care to develop software suitable for corporate software architecture.
-      A young candidate who loves problem solving and doesn't run away from problems.
+    I am a junior software developer candidate. I am someone who tries to improve myself.
+    I am a small software developer who takes care to develop software suitable for corporate software architecture.
+    A young candidate who loves problem solving and doesn't run away from problems.
             </div>
         </div>
     </div>
