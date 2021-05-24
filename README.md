@@ -53,4 +53,4 @@
 
 [twitter]: https://twitter.com/Burakiipekci
 [instagram]: https://instagram.com/Burakiipekci
-[linkedin]: https://linkedin.com/Burakiipekci
+[linkedin]: https://linkedin.com/in/Burakiipekci
