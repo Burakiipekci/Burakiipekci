@@ -1,6 +1,6 @@
 
 ## Hi there, I'm Burak  
-- <img align="center" alt="Visual Studio " width="1000px" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e472hi0c9fyuttoq955lzfm5laxsx736ahtc7y6qiic&rid=giphy.gif&ct=g />  
+- <img align="center" alt="Visual Studio " width="1000px" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e472hi0c9fyuttoq955lzfm5laxsx736ahtc7y6qiic&rid=giphy.gif&ct=g/>  
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
