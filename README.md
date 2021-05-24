@@ -1,27 +1,11 @@
 
 ## Hi there, I'm Burak  
-- <img align="center" alt="Visual Studio " width="1000px" src="https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg" />  
+- <img align="center" alt="Visual Studio " width="1000px" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e472hi0c9fyuttoq955lzfm5laxsx736ahtc7y6qiic&rid=giphy.gif&ct=g />  
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 I like teamwork
 - ⚡ I'm improving myself
-
-<h2>Example of code</h2>
-
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
-
-
-
 
 ### Connect with me:
 
