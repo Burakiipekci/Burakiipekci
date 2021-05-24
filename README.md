@@ -1,6 +1,101 @@
 
 ## Hi there, I'm Burak  
-- <img align="center" alt="Visual Studio " width="1000px" src="https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg" />  
+<head>
+    <title>JavaScript Dijital Saat</title>
+    <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet" type="text/css"/>
+ 
+    <style>
+        .tabBlok
+        {
+            background-color:#57574f;
+            border:solid 0px #FFA54F;
+            border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;
+            max-width:200px;
+            width:100%;
+            overflow:hidden;
+            display:block;
+        }
+        .dijitalSaat
+        {
+            vertical-align:middle;
+            font-family:Orbitron;
+            font-size:40px;
+            font-weight:normal;
+            color:#FFF;
+            padding:0 10px;
+        }
+        .saat
+        {
+            vertical-align:middle; 
+            font-family:Orbitron;
+            font-size:20px;
+            font-weight:normal;
+            color:#FFF;
+        }
+        .zemin{
+            background-color:#F3F3F3;
+            max-width:220px;
+            width:100%;
+            margin:0 auto;
+            padding:20px;
+        }
+    </style>
+</head>
+ 
+<body onload="dijitalSaat();">
+    <div class="zemin">
+ 
+        <table class="tabBlok" align="center" cellspacing="0" cellpadding="0" border="0">
+            <tr><td class="dijitalSaat" id="dt"></td> 
+                <td>
+                    <table cellpadding="0" cellspacing="0" border="0">
+ 
+                        <tr><td class="saat" id="dt_saat">😴</td></tr>
+ 
+                        <!-- SHOWING SECONDS. -->
+                        <tr><td class="saat" id="dt_saniye"></td></tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+ 
+<script>
+    // tarih oluşturma fonksiyonu
+    function dijitalSaat() {
+        var dt = new Date();    // DATE() ile yeni bir tarih nesnesi oluşturuldu.
+        var saat = dt.getHours();
+        var dakika = dt.getMinutes();
+        var saniye = dt.getSeconds();
+ 
+        dakika = Tik(dakika);
+        saniye = Tik(saniye);
+ 
+        document.getElementById('dt').innerHTML = saat + ":" + dakika;
+        document.getElementById('dt_saniye').innerHTML = saniye;
+ 
+        if (saat > 12) { 
+            document.getElementById('dt_saat').innerHTML = '😊'; 
+        }
+        else { 
+            document.getElementById('dc_hour').innerHTML = '😴'; 
+        }
+ 
+        // her 1 saniyede bir yenileme yapılıyor.
+        var time
+        time = setInterval('dijitalSaat()', 1000);
+    }
+ 
+    function Tik(tikDegeri) {
+        if (tikDegeri < 10) {
+            tikDegeri = "0" + tikDegeri;
+        }
+        return tikDegeri;
+    }
+</script>
+</html>
+ 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
