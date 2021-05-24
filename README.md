@@ -6,11 +6,22 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 I like teamwork
 - ⚡ I'm improving myself
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-      
+<h2>Example of code</h2>
 
-       My GitHub Stats
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
+</pre>
+
+
+
 
 ### Connect with me:
 
