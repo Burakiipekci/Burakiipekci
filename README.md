@@ -14,14 +14,16 @@
     </div>
 </pre>
 
-
-- ![giphy](https://user-images.githubusercontent.com/76015489/119416694-e6821f80-bcfc-11eb-85c8-c142c0d227bb.gif)
-
-
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 I like teamwork
 - ⚡ I'm improving myself
+
+<br/>
+
+![giphy](https://user-images.githubusercontent.com/76015489/119416694-e6821f80-bcfc-11eb-85c8-c142c0d227bb.gif)
+
+
 
 ### Connect with me:
 
