@@ -1,6 +1,7 @@
 
 ## Hi there, I'm Burak  
-- <img align="center" alt="Visual Studio " width="1000px" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e472hi0c9fyuttoq955lzfm5laxsx736ahtc7y6qiic&rid=giphy.gif&ct=g/>  
+- ![giphy](https://user-images.githubusercontent.com/76015489/119416694-e6821f80-bcfc-11eb-85c8-c142c0d227bb.gif)
+
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
