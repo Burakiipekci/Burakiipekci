@@ -1,12 +1,17 @@
 
 ## Hi there, I'm Burak  
-
-
+- <img align="center" alt="Visual Studio " width="1000px" src="https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg" />  
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 I like teamwork
 - ⚡ I'm improving myself
+
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+      
+
+       visitors
 
 
 ### Connect with me:
@@ -29,7 +34,7 @@
 <img align="left" alt="React" width="26px" src="https://image.flaticon.com/icons/png/512/1126/1126012.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/512/2772/2772128.png" />
-<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/1199/1199128.png" />
+<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/1199/1199128.png" />]
 <br />
 <br />
 
