@@ -5,9 +5,7 @@
     <div class="container">
         <div class="block two first">
             <h2>Hi there, I'm Burak 👋 </h2>
-            <div class="wrap">
- 
-            </div>
+           
         </div>
     </div>
 </pre>
@@ -18,9 +16,6 @@
 - ⚡ I'm improving myself
 
 <br/>
-
-
-
 
 
 ### Connect with me:
@@ -46,8 +41,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/1199/1199128.png" />
 <br />
 <br />
-
-![giphy](https://user-images.githubusercontent.com/76015489/119416694-e6821f80-bcfc-11eb-85c8-c142c0d227bb.gif)
 
 [twitter]: https://twitter.com/Burakiipekci
 [instagram]: https://instagram.com/Burakiipekci
